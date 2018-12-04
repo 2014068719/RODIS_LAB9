@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RODIS_LAB9</string>
+    <string name="text1"> SEARCH </string>
+    <string name="text2"> SAVE </string>
+    <string name="text3"> Fullname </string>
+    <string name="text4"> Age </string>
+    <string name="text5"> Gender </string>
+    <string name="text6"> </string>
+
+</resources>

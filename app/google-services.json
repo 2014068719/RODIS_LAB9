@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "956674498029",
+    "firebase_url": "https://rodislab9.firebaseio.com",
+    "project_id": "rodislab9",
+    "storage_bucket": "rodislab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956674498029:android:33d4b2572ac0d483",
+        "android_client_info": {
+          "package_name": "com.example.rodis_kurt_115.rodis_lab9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956674498029-tvvm3091170m1t81h7bj74pkqq99uroi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rodis_kurt_115.rodis_lab9",
+            "certificate_hash": "f3735e8108ce3f04a710fbc97224440a82020cac"
+          }
+        },
+        {
+          "client_id": "956674498029-bsdq97mp511e59ebits9607u5d9ltueo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbo_TAWm9yYzKQcL4asMK8CRIj3Y4QXWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956674498029-bsdq97mp511e59ebits9607u5d9ltueo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
